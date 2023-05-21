@@ -6,9 +6,16 @@
 - Dart: linguagem de programação utilizada pelo Flutter.
 - Firebase: plataforma de desenvolvimento de aplicativos móveis do Google.
 
-## Capturas de Tela
+## Telas
+<img width="375" alt="Tela de Login" src="https://github.com/emyslandim/flutter-project/assets/44002213/8b2b80ab-ca23-4259-a54e-d391ce23648d">
 
-Adicione aqui as capturas de tela do seu aplicativo.
+<img width="375" alt="Tela de Cadastro" src="https://github.com/emyslandim/flutter-project/assets/44002213/730a7606-e36a-407a-9786-a0882757b17c">
+
+<img width="377" alt="Tela de Listagem de Pokemons offset 0" src="https://github.com/emyslandim/flutter-project/assets/44002213/c51cd0f0-4abd-444b-ad7d-6596d044590c">
+
+<img width="376" alt="Tela de Listagem de Pokemons offset 20" src="https://github.com/emyslandim/flutter-project/assets/44002213/597761cb-7b86-4df9-9387-f8044850fbbd">
+
+
 
 ## Como Rodar
 
@@ -18,26 +25,23 @@ Siga as instruções abaixo para executar o aplicativo em seu ambiente local:
 
 2. Clone este repositório para o seu ambiente local:
 
-git clone https://github.com/emyslandim/pokemon-fiap
+git clone https://github.com/emyslandim/flutter-project
 
 3. Acesse o diretório do projeto:
 
-cd pokemon-fiap
+`cd flutter-project`
 
 4. Execute o comando para baixar as dependências:
 
-flutter pub get
+`flutter pub get`
 
 5. Conecte um dispositivo físico ou inicie um emulador.
 
 6. Execute o aplicativo:
 
-flutter run
+`flutter run`
 
 7. O aplicativo será iniciado no seu dispositivo/emulador.
-
-## Telas
-
 
 ## Autor
 
